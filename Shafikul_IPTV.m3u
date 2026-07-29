@@ -1,22 +1,8 @@
 #EXTM3U
 #EXTINF:-1, group-title="Indian Bangla",Star Jalsha
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
-#EXTINF:-1, group-title="Indian Bangla",Star Jalsha HD-Backup
-https://go.skym3u.top/live/aHR0cHM6Ly9jYXRjaHVwLnl1cHBjZG4ubmV0L2FtYXpvbnYyLzM2L3ByZXZpZXcvc3RhcmphbHNoYS9tYXN0ZXIvY2h1bmtsaXN0Lm0zdTg.m3u8
-#EXTINF:-1, group-title="Indian Bangla",Star Jalsha HD-Backup2
-https://go.skym3u.top/live/aHR0cDovL3R2LmNsb3VkY2RuLm1lL2xpdmUudHM_Y2hhbm5lbElkPTExNiZ1aWQ9MTUzMDEmZGV2aWNlTWFjPTAwOjFBOjc5OjA0OjU1OkM0.m3u8
-#EXTINF:-1, group-title="Movies",Star Jalsha Movie
-https://go.skym3u.top/live/aHR0cDovL3R2LmNsb3VkY2RuLm1lL2xpdmUudHM_Y2hhbm5lbElkPTExNyZ1aWQ9MTUzMDEmZGV2aWNlTWFjPTAwOjFBOjc5OjA0OjU1OkM0.m3u8
-#EXTINF:-1, group-title="Movies",Star Jalsha Movie-Backup
-https://go.skym3u.top/live/aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTowQjpBMDpBRSZzdHJlYW09OTA4Njc1JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPVVSU1FOQVJoa3A.m3u8
 #EXTINF:-1, group-title="Indian Bangla",Zee Bangla
-https://go.skym3u.top/live/aHR0cHM6Ly95dXBwdHZjYXRjaHVwaXJlLnl1cHBjZG4ubmV0L3ByZXZpZXcvemVlYmFuZ2xhLzI1MDAubTN1OA.m3u8
-#EXTINF:-1, group-title="India Bangla",Color Bangla
-https://go.skym3u.top/live/aHR0cDovL2xpdmUuYmFsYWppYnJvYWRiYW5kLmNvbTozNTAwL2xpdmUvNzU2Lm0zdTg.m3u8
-#EXTINF:-1, group-title="India Bangla",Color Bangla-Backup
-https://go.skym3u.top/live/aHR0cHM6Ly9jYXRjaHVwLnl1cHBjZG4ubmV0L2FtYXpvbnYyLzM2L3ByZXZpZXcvY29sb3JzYmFuZ2xhaGQvbWFzdGVyL2NodW5rbGlzdC5tM3U4.m3u8
-#EXTINF:-1, group-title="India Bangla",Color Bangla-Backup2
-https://go.skym3u.top/live/aHR0cDovL3R2LmNsb3VkY2RuLm1lL2xpdmUudHM_Y2hhbm5lbElkPTkyJnVpZD0xNTMwMSZkZXZpY2VNYWM9MDA6MUE6Nzk6MDQ6NTU6QzQ.m3u8
+http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1, group-title="Indian Bangla",Z Sonar Bangla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
 #EXTINF:-1, group-title="Indian Bangla",Enterer 10 Bangla
@@ -25,13 +11,7 @@ https://live.shamim-iptv.workers.dev/ENTER10BANGLA.m3u8
 https://live.shamim-iptv.workers.dev/SUNBANGLAHD.m3u8
 #EXTINF:-1, group-title="Indian Bangla",Sony Aaat
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-#EXTINF:-1, group-title="Indian Bangla",Sony Aaat-Backup
-https://go.skym3u.top/live/aHR0cDovL3R2LmNsb3VkY2RuLm1lL2xpdmUudHM_Y2hhbm5lbElkPTQ0MTUwJnVpZD0xNTMwMSZkZXZpY2VNYWM9MDA6MUE6Nzk6MDQ6NTU6QzQ.m3u8
-#EXTINF:-1, group-title="India Bangla",Sananda TV
-https://go.skym3u.top/live/aHR0cDovL2xpdmUtc3RyZWFtLmFtYXJiYW5nbGF0di5pbjo4MDgwL2hscy9zYW5hbmRhdHYvaW5kZXgubTN1OA.m3u8
-#EXTINF:-1, group-title="Indian Bangla",Khushbo
-https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1, group-title="NEWS",Channel 1
+#EXTINF:-1, group-title="News",Channel 1
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1, group-title="News",Star News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8
@@ -51,12 +31,18 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701.m3u8
 #EXTINF:-1, group-title="News",ATN News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
-#EXTINF:-1, group-title="NEWS",Al-Jazeera
+#EXTINF:-1, group-title="News",BTV News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/btvbd-office-sg.stream/index.m3u8
+#EXTINF:-1, group-title="News",Al-Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1, group-title="Bangladeshi",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1, group-title="Bangladeshi",BTV
-https://go.skym3u.top/live/aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNS9vdXRwdXQvaW5kZXgubTN1OA.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
+#EXTINF:-1, group-title="Bangladeshi",ATN
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1, group-title="Bangladeshi",Masranga
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 #EXTINF:-1, group-title="Bangladeshi",ETV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=
 #EXTINF:-1, group-title="Bangladeshi",RTV
@@ -69,14 +55,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1, group-title="Bangladeshi",Channel 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1, group-title="Bangladeshi",Masranga HD
-https://go.skym3u.top/live/aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvMTcyMi5tM3U4.m3u8
-#EXTINF:-1, group-title="Bangladeshi",Desh TV
-https://go.skym3u.top/live/aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyNC9vdXRwdXQvMTcyNC5tM3U4.m3u8
+#EXTINF:-1, group-title="Bangladeshi",NEXUS
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/index.m3u8
 #EXTINF:-1, group-title="Movies",Zee Cinema
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
-#EXTINF:-1, group-title="Movies",Sony Max
-https://go.skym3u.top/live/aHR0cDovL2xpdmUuYmFsYWppYnJvYWRiYW5kLmNvbTozNTAwL2xpdmUvNDc2Lm0zdTg.m3u8
 #EXTINF:-1, group-title="Movies",Color Cineplex HD
 https://go.skym3u.top/live/aHR0cDovLzY2LjEwMi4xMjYuMTA6ODAwMC9wbGF5L2EwNzYvaW5kZXgubTN1OA.m3u8
 #EXTINF:-1, Hindi Hits HD
@@ -85,8 +67,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
 #EXTINF:-1, group-title="Documentary",Discovery HD Bangla
 https://go.skym3u.top/live/aHR0cDovL21haW4ubGlnaHQtb3R0Lm5ldC9wbGF5L2xpdmUucGhwP21hYz0wMDoxQTo3OTowQjpBMDpBRSZzdHJlYW09OTA4Njg0JmV4dGVuc2lvbj10cyZwbGF5X3Rva2VuPWRaNkpkb2ZNOFI.m3u8
-#EXTINF:-1, group-title="Documentary",Discovery HD Bangla-Backup
-https://go.skym3u.top/live/aHR0cDovL3R2LmNsb3VkY2RuLm1lL2xpdmUudHM_Y2hhbm5lbElkPTQ0MTUzJnVpZD0xNTMwMSZkZXZpY2VNYWM9MDA6MUE6Nzk6MDQ6NTU6QzQ.m3u8
 #EXTINF:-1, group-title="Documentary",Discovery HD
 http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1, group-title="Documentary",Animal Planet
@@ -107,5 +87,13 @@ http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1, group-title="Sports",Unite8 Sports 1
 http://59.103.38.46:8000/play/a125/index.m3u8
-#EXTINF:-1, Movie Server BTV
+#EXTINF:-1, STV
 http://103.196.233.170:1935/btvingest/rnd/playlist.m3u
+#EXTINF:-1, group-title="Movies",Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1, group-title="Movies",Ananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
+#EXTINF:-1, group-title="India Bangla",Sananda TV
+https://go.skym3u.top/live/aHR0cDovL2xpdmUtc3RyZWFtLmFtYXJiYW5nbGF0di5pbjo4MDgwL2hscy9zYW5hbmRhdHYvaW5kZXgubTN1OA.m3u8
+#EXTINF:-1, group-title="Indian Bangla",Khushbo
+https://cdn-4.pishow.tv/live/1473/master.m3u8
