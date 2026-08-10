@@ -15,7 +15,9 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="Somoy TV" tvg-logo="..." group-title="News",Somoy TV
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
-#EXTINF:-1 tvg-id="..." tvg-name="Channel One" tvg-logo="http://shafikul.duckdns.org/portal/images/logos/ch-1.png" group-title="News" group-title="News",Channel One
+#EXTINF:-1 tvg-id="..." tvg-name="Star News" tvg-logo="..." group-title="News",Star News
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="..." tvg-name="Channel One" tvg-logo="..." group-title="News",Channel One
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="Independent TV" tvg-logo="..." group-title="News",Independent TV
 https://sm-monirul.top/@monirul_Islam_SM/play/independent_tv.m3u8
@@ -79,12 +81,12 @@ http://202.70.146.135:8000/play/a009/index.m3u8
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="Hum TV" tvg-logo="..." group-title="Entertainment",Hum TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
+#EXTINF:-1 tvg-id="..." tvg-name="Aur Life HD" tvg-logo="..." group-title="Entertainment",Aur Life HD
+http://124.109.47.101/hls/stream1.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="KBS World" tvg-logo="..." group-title="Entertainment",KBS World
 https://stream8.cinerama.uz/1448/playlist.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="Duranto TV" tvg-logo="..." group-title="Kidz",Duranto TV
 https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
-#EXTINF:-1 tvg-id="..." tvg-name="Zoo Moo" tvg-logo="..." group-title="Kidz",Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="Sony YaY" tvg-logo="..." group-title="Kidz",Sony YaY
 https://stream.ottplus.live/live/sony_yay_abr/live/sony_yay_720/chunks.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="POGO" tvg-logo="..." group-title="Kidz",POGO
@@ -151,9 +153,9 @@ http://tvsen7.aynascope.net/sspts1/index.m3u8
 http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="Bein Sports 1" tvg-logo="..." group-title="Sports",Bein Sports 1
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="..." tvg-name="S TV" tvg-logo="..." group-title="Islamic",S-TV
-http://103.196.233.170:1935/btvingest/rnd/playlist.m3u
-#EXTINF:-1 tvg-id="..." tvg-name="S TV Documentary" tvg-logo="..." group-title="Documentary",STV Documentary
+#EXTINF:-1 tvg-id="..." tvg-name="STV" tvg-logo="..." group-title="Islamic",STV
+http://103.196.233.172:1935/iptv/stv/playlist.m3u8
+#EXTINF:-1 tvg-id="..." tvg-name="STV Documentary" tvg-logo="..." group-title="Documentary",STV Documentary
 http://103.196.233.172:1935/iptv/srt_ingest.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="Channel S" tvg-logo="..." group-title="Movie",Channel S
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channels.stream/index.m3u8
@@ -171,5 +173,7 @@ http://66.102.126.10:8000/play/a076/index.m3u8
 http://66.102.126.10:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-id="..." tvg-name="Zee Bangla Cinema" tvg-logo="..." group-title="Movie",Zee Bangla Cinema 
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD.m3u8
+#EXTINF:-1 tvg-id="..." tvg-name="Star Jalsha HD" tvg-logo="..." group-title="Movie",Star Jalsha Movie HD
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/132121.ts
 #EXTINF:-1 tvg-id="..." tvg-name="SRK TV" tvg-logo="..." group-title="Movie",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
